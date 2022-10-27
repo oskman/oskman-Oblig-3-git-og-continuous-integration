@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testAlgorithm" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-27T16:03:21" hostname="SOK" time="0.012">
+  <properties/>
+  <testcase name="Should check if the year divided by 4 is not an int" classname="testAlgorithm" time="0.01"/>
+  <testcase name="Should check if the year divided by 100 is an int and the year divided by 400 is not." classname="testAlgorithm" time="0.001"/>
+  <testcase name="Should check if the year divided by 4 is an int and the year divided by 100 is not." classname="testAlgorithm" time="0.0"/>
+  <testcase name="Should check if the year divided by 400 is an int." classname="testAlgorithm" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
