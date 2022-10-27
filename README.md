@@ -1,5 +1,5 @@
 # oskman-Oblig-3-git-og-continuous-integration
-Først lastet jeg opp alle prosjekt filene ved hjelp av git bash, så satt jeg opp en action som inneholder en job. Denne job-en setter opp JDK og lager en build av prosjektet. 
+Først lastet jeg opp alle prosjekt filene ved hjelp av git bash, så satt jeg opp en action som kjøres hver gang noen pusher filer til reposytoriet. Denne actionen inneholder en job. Denne job-en setter opp JDK og lager en build av prosjektet. 
 Når builden blir laget -
 kan man se kjøringen av testene under actions/BuildProject_RunTests og klikker på "Create the build with gradle". Her er et utklipp av output:
 > Task :test
